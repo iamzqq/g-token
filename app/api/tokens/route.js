@@ -1,4 +1,4 @@
-import { supabase } from "../../../lib/supabase";
+import { supabase } from "../../lib/supabase";
 import crypto from "crypto";
 
 // 生成随机令牌（8 位十六进制）
